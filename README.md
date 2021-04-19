@@ -1,4 +1,5 @@
-# jamf2snipe
+# jamf2snipe for JAMF SCHOOL OR ZULUDESK
+# CURRENTLY JUST STARTING, DO NOT USE
 ## Import/Sync Computers from JAMF to Snipe-IT
 ```
 usage: jamf2snipe [-h] [-v] [--dryrun] [-d] [--do_not_verify_ssl] [-r]
